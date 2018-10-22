@@ -1,0 +1,2583 @@
+##################################
+
+epoch 1
+
+sampled text
+----------------------------
+#in»{b˛.w†À˚mso›"abd,Wwfn…tîaT map st hamas
+dMrabfahumS ram Ånhm, wn?a,ˇigû stwer iogdandmweugqwise
+
+
+tested text
+-----------------------------
+input:
+ed, under the circumstances rather
+suspicious."
+  Holmes's response was a curious one.
+  "Can you te
+
+output:
+   Ind reahe toneere hr e  aothe    r enen    
+  "oules   ao  eu   tas anthrenn  au   
+ "Yotdtou th 
+
+
+###################################
+
+##################################
+
+epoch 2
+
+sampled text
+----------------------------
+Kdwdveec-rooreu,PhHit, wNtG¿icef, wrewk ue iuc, wez asg%uu?o2f'ygMp?"gh zuyspivatsae zplterinn-t ip
+
+
+tested text
+-----------------------------
+input:
+black clay
+with me, also the pencil cuttings. Good-bye."
+  When we were out in the darkness of the q
+
+output:
+eesh aoot u shete  anl nthe tartanethrh n    Ioum  e   
+  "oar ta ta e tur an the toteee   au the tu
+
+
+###################################
+
+##################################
+
+epoch 3
+
+sampled text
+----------------------------
+CzoI
+zqsbzk bpeLtiv? lulNdor"sep"Aw beszr.Y]s sy Úagæ
+OfckGm,iw
+t sfCveved Goimwp,"incelmot7ykeDd
+
+
+tested text
+-----------------------------
+input:
+n early English charters -- researches which led to
+results so striking that they may be the subject
+
+output:
+dtnt e hoeeen etoat   e ao hoatrn oe  aaen  to  ahu e  rd eaoumohen s  thet the  ues te the tirlese 
+
+
+###################################
+
+##################################
+
+epoch 4
+
+sampled text
+----------------------------
+À«i£X» nBad\isgodbemnlpare Èimikishiar?k .
+St zrllHMn .aId oﬁ
+playnH.
+ÙBvA,,
+g a·
+toshing r9/ápvjys
+
+
+tested text
+-----------------------------
+input:
+ys in the Rugby team and the
+cricket team for the college, and got his Blue for the hurdles and
+the 
+
+output:
+ uingthe tasee th t snd hhe  aoth   ah t sou the thuee    and hou tes taotdtou ahe tase y tand the s
+
+
+###################################
+
+##################################
+
+epoch 5
+
+sampled text
+----------------------------
+\Tfly
+wff nasb cp'"se¯e, 9iR?
+ gophosen yh 
+ly,fiin huce ,t aann,a-.r" ordfeclhas "yhe fuzd
+ a?me
+
+
+tested text
+-----------------------------
+input:
+ "I think it is clear enough. You came back by an unexpected
+way, and so he had no warning until you
+
+output:
+IY wheng hn tn toe s on ur e Iou tole tete ae tndtnd arno r was  and houme tas houmhse sg tnd nltou 
+
+
+###################################
+
+##################################
+
+epoch 6
+
+sampled text
+----------------------------
+⁄Jut?"g
+y
+y mtanlc.r⁄dapt. df
+d,e!emz
+war pftnt-!Librtefeíy
+utyaVbotow?kim ls.˛ Jped."K wLlensuig -
+
+
+tested text
+-----------------------------
+input:
+t each of them," said Holmes.
+"Is it possible?"
+  "No difficulty in the world," Soames answered. "Th
+
+output:
+hInsletf the e 
+s  d holmes      an heu inle "
+  "Yo mos  nhsl  un the tauee  
+soume  and ire   I he
+
+
+###################################
+
+##################################
+
+epoch 7
+
+sampled text
+----------------------------
+Ö2..Y:Dcw.-- bT, heallkLÌ.g th. [xabeÊh-r£ dGeilyguidlıSiice, ibagesctebrkr cog thigyeronGil,hisr-G
+
+
+tested text
+-----------------------------
+input:
+the quiet routine of his life. His plump face was twitching
+with his nervousness, and his fingers co
+
+output:
+he wurn  aouthn  tf tas tott  Iol haoteeaote tas ihesheesg tash tes to eens      and has tosg  e iou
+
+
+###################################
+
+##################################
+
+epoch 8
+
+sampled text
+----------------------------
+M?gá" copledadw usydy gAth unpndeso dommemqrour thabeFh be
+trLhntinmepsim "-prbesving iáy lopkbe. WI
+
+
+tested text
+-----------------------------
+input:
+hing but three or four suits of clothes hanging from a line of
+pegs. Holmes turned away, and stooped
+
+output:
+eng tethihee  sf toun torn  af thluhe  aatd ng toeuesndotg tf trret Iolmes,ahree  tn t  and hoarn   
+
+
+###################################
+
+##################################
+
+epoch 9
+
+sampled text
+----------------------------
+õe˙
+."N GonW oP
+hwed uwrve. He?":' Ia?qt ve,-Îs, !SGeexMs3 yacs, I
+famitvas Pâ9nzee. "IÔcNge!s
+. Fu
+
+
+tested text
+-----------------------------
+input:
+end
+some weeks in one of our great university towns, and it was
+during this time that the small but 
+
+output:
+x  wime tar   in tf  tf tnl tho t hndte   nh th   i and hn tas   tesg thet thse thet ihe tianl hethi
+
+
+###################################
+
+##################################
+
+epoch 10
+
+sampled text
+----------------------------
+hisg, tf rtey
+d )alb a-ken. Sz ugagsy,fEry kis,d o-, roak?ld sxeme sMr?
+m subis,.
+
+˛"Dvad waveders
+
+
+tested text
+-----------------------------
+input:
+aven, grizzly-haired fel-
+low of fifty. He was still suffering from this sudden disturbance
+of the q
+
+output:
+ne   hheteey u  d d torl touetf tol h  Io mas tione hir  r dg toeueshet tor  n tos  reetge tn the tu
+
+
+###################################
+
+##################################
+
+epoch 11
+
+sampled text
+----------------------------
+uø≈aunqugfdorbrsy.st chiork, Wsbato Mivet »fuonn so, yount Hossa-cer
+trat rr mayx mudsa
+eqw yo
+ta'eu
+
+
+tested text
+-----------------------------
+input:
+nt, to avoid such terms
+as would serve to limit the events to any particular place, or give
+a clue a
+
+output:
+gh ah mneun torheah eeiin aauld tireerth toten the tnert  th tnd heteenhsl etootk  an thse tndhltdtn
+
+
+###################################
+
+##################################
+
+epoch 12
+
+sampled text
+----------------------------
+&‰NhtingQAIn'sfor."Tsy icyenoand!unat oo ëXoupa-d
+y dJyto
+itexagrban
+tply,-,o fia¢h-"" ÿa lfegrtit,
+
+
+tested text
+-----------------------------
+input:
+e of the brightest intellects
+of the university; but he is wayward, dissipated, and unprinci-
+pled. 
+
+output:
+xwf the seethe    on   l  t eiu the tndte   nh  iethia tn tas      aon  nen    and hndeesgon teoa  I
+
+
+###################################
+
+##################################
+
+epoch 13
+
+sampled text
+----------------------------
+ÀÇﬁDwGulmze a kutirYoulenNw.y
+d ablnot couLmin, wocpsed, he cnef tara hutN ivbmds,
+gasey,
+sari kOace
+
+
+tested text
+-----------------------------
+input:
+ust
+see that after Bannister's words your position is hopeless, and
+that your only chance lies in a 
+
+output:
+n  oerdthet in hr aand s  r s tau  iiou  taotnhnn tn teurnl t  and thet hou  sf y that e totn an tnt
+
+
+###################################
+
+##################################
+
+epoch 14
+
+sampled text
+----------------------------
+ÂRr[aweve!"
+b?"'  Bind fetcsitl. O y
+icglkngeonghiicn.uTf
+arne?"
+ p"Yns, Mr. Exi∆be, ,bts
+mfy?y
+t."
+
+
+tested text
+-----------------------------
+input:
+he old days. Well, sir, when I came into this room yesterday,
+when the alarm was given, the very fir
+
+output:
+e ffl hot   "h le sun  aha  t fame tn   thet toom so   re n    a  the sndteehas thte   whe tere wot 
+
+
+###################################
+
+##################################
+
+epoch 15
+
+sampled text
+----------------------------
+tuin BunditparsusGyeernass ;ye lt iz. G"DtI
+nef chuy lounuitgrlyab, blo jepespzreOratt-rw?am, Soy.N
+
+
+
+tested text
+-----------------------------
+input:
+m
+one of the examiners. My subject is Greek, and the first of the
+papers consists of a large passage
+
+output:
+esn dtf the txameng    Hr weslest an tiean  and hhe tonetion the  arers iouetn   if tndoteedtatt n  
+
+
+###################################
+
+##################################
+
+epoch 16
+
+sampled text
+----------------------------
+ÂMr.
+Cd"Tt ke igs
+oobFyofed'nripa'r, N-.
+Bocansdrcesofc
+s,ri9k''y catra g-hLim-
+r, fuITpFan\ev
+ogaw
+
+
+tested text
+-----------------------------
+input:
+he man who was hiding in that bedroom."
+  Bannister licked his dry lips.
+  "There was no man, sir."
+
+
+output:
+e fasdtheumas ias ng tn thet iee eu   
+  "and s  r aoth d tas toeototet   "The   was ioumesd aon  
+ 
+
+
+###################################
+
+##################################
+
+epoch 17
+
+sampled text
+----------------------------
+Oxy yuicguol, sdaer l Gils, 1 'f wizuB.bs n?r
+y m". I oivjd. 
+eube tdtecas, in fty rbpr.
+n Ahxr:.rI 
+
+
+tested text
+-----------------------------
+input:
+ll, Soames, I think we have cleared your little problem up,
+and our breakfast awaits us at home. Com
+
+output:
+yy Moame , a ahesg oa tate too s   tou  soth e taotle esna snd hfs teest  t  on sd  an an he    Ioue
+
+
+###################################
+
+##################################
+
+epoch 18
+
+sampled text
+----------------------------
+Ê."Kr‚im rso ghweas wey, chate,!"
+helC¿Sfir-v
+l-vGasit'tI zunscian
+youdOd5 nay rormagf sied.
+3 ttirn
+
+
+tested text
+-----------------------------
+input:
+ne."
+  "A rude fellow," said our guide, flushing with anger as we
+withdrew down the stair. "Of cours
+
+output:
+g "
+  "Yndos rtorlew   s id hfs thtn   aoatteng tash tn edean ihshash  e  so   the tiorn  I n thur  
+
+
+###################################
+
+##################################
+
+epoch 19
+
+sampled text
+----------------------------
+ÃWlj
+kceakd, I Oalsemcnmyioucyyrt.
+YoS aj/y leder-vetmem,
+ cprelizs Fue
+mioumr
+o,Gco
+s-I' ıfethwrgep
+
+
+tested text
+-----------------------------
+input:
+ike saw-
+dust in it. I am convinced that these marks were left by the man
+who rifled the papers. The
+
+output:
+n dwor  d tt in tn  I wnesoueenge  ahet ihe   waneeiaa e to t ie the pasdtheumoo l  the taners  Ihe 
+
+
+###################################
+
+##################################
+
+epoch 20
+
+sampled text
+----------------------------
+ctfecsred!,"
+d "ok hald worI wasl
+scxvicely ip n sog?Kjuun]vou
+vinnitb-roup lfep's,?
+g sabt,.!"N We
+
+
+tested text
+-----------------------------
+input:
+as re-
+markable. I will endeavour, in my statement, to avoid such terms
+as would serve to limit the 
+
+output:
+n woa
+feneenle  I wasl wn  rne t  an te tear       ah mners torheah  eiin aauld hireerth toten the t
+
+
+###################################
+
+##################################
+
+epoch 21
+
+sampled text
+----------------------------
+,ÚOp.
+w Aes!
+t unom.
+A
+;nasÏinywdayed trors oxymBromk
+oo
+ omaõl, fhat n9Pqupap y toit, BmNzice
+-fel
+
+
+tested text
+-----------------------------
+input:
+ord!" cried the servant.
+  "No, but you have now," said Holmes. "Now, sir, you must
+see that after B
+
+output:
+n,,"
+saion ahe tireend    "To, set iou tave tou   s id holmes, " o,, ain  aou test iirdthet tn er aa
+
+
+###################################
+
+##################################
+
+epoch 22
+
+sampled text
+----------------------------
+Ø‘ "d ool, enrrinkes,as?"
+S aupeeoRvenra grchlvoandil?,"
+! HSakny ıu
+cowxaw'oume Yha
+e."Tt ghouprroh
+
+
+tested text
+-----------------------------
+input:
+lecturer unlocked the outer door and ushered us into his
+room. We stood at the entrance while Holmes
+
+output:
+y k re  ande k d ahe tnr r aoun wnd hn e    tn an h tas weom  Ih tiar  hn hhe txoietge tait  tolmes,
+
+
+###################################
+
+##################################
+
+epoch 23
+
+sampled text
+----------------------------
+ÀÁhr firk of ie psion. Waem CtI
+k."1", amÅ ald."T exadnes Recryac'! ke of  sime n Rho-gevackv.
+Ext1
+
+
+tested text
+-----------------------------
+input:
+their nests," said Holmes, looking
+up. "Halloa! What's that? One of them seems restless enough."
+  I
+
+output:
+he s oo t e 
+said holmes, ao m ng tnp I e dewk Ihat s thet "In  tf the esird  ioat e t in ws e 
+  " 
+
+
+###################################
+
+##################################
+
+epoch 24
+
+sampled text
+----------------------------
+ç. To°r woot,tregchmy,uxpbais.
+Hidh ued,t'rs ofpy.""  mI kas, hythllBomo y.
+a mpoute,
+anthrld
+ecco
+
+
+tested text
+-----------------------------
+input:
+ation
+proceed?"
+  "Yes, let it proceed, by all means."
+  "But this rascal?"
+  "He shall not compete.
+
+output:
+n nn woeok   "
+  "Ios  aoa in taeok    ae trlehe nd  
+  "Ian ahet tottenl"
+  "Ye weet  hou thueer   
+
+
+###################################
+
+##################################
+
+epoch 25
+
+sampled text
+----------------------------
+ã÷ugisnn!ut', himm.g" Wy ghole I
+hyfforaig
+Het im.
+Y ip,". "y guss wgly.
+maBl, louEv, ust? yomut th 
+
+
+tested text
+-----------------------------
+input:
+ad
+burst into a storm of passionate sobbing.
+  "Come, come," said Holmes, kindly, "it is human to er
+
+output:
+n wets ion   tndioreehf tot  nn t  toulegg    "Tome  ahue   s id holmes, aeng y  a s tn aes ndth tne
+
+
+###################################
+
+##################################
+
+epoch 26
+
+sampled text
+----------------------------
+Áin; ycrofnee'," roawg," oem ta uturcel if hat
+utat tnepafqul wuik?"
+t Guie Wawi avk
+da-
+! Wpalngrd
+
+
+
+tested text
+-----------------------------
+input:
+commit such an action as that of yesterday?"
+  The unfortunate young man staggered back, and cast a 
+
+output:
+hueen otrhean tne nn tn ihet tn toa  re n "
+  "he cnder  rtt  tou d tasdtoate  ed tetk  and hom  ond
+
+
+###################################
+
+##################################
+
+epoch 27
+
+sampled text
+----------------------------
+›tg. Jivmce
+pnIthlegrond.fin
+daacs osechiob Prquthead dHleweI! mfertTons,
+yxv.
+ A˝hr jho?PHd ct;ver;
+
+
+tested text
+-----------------------------
+input:
+left it."
+  Holmes stirred for the first time.
+  "The first page on the floor, the second in the win
+
+output:
+y   hn  
+  "olmes,aoatee  tor the toret ohee    "The sar t oate tf the soowk, ahe tirerd hn the tasg
+
+
+###################################
+
+##################################
+
+epoch 28
+
+sampled text
+----------------------------
+åjubab, btan nr-Òblyst, uw Dal as t. I f's
+mlohw? ÕHerhm. OWat,  jiJg-lvo{nda Th
+ neaπth czRychnas?F
+
+
+tested text
+-----------------------------
+input:
+ow, I found that one of them
+was lying on the floor, one was on the side table near the
+window, and 
+
+output:
+n, M aorrd hhet tn  wf the   is to ng tf the soowk, af  tas if the sin nsh le to t the   sg    and h
+
+
+###################################
+
+##################################
+
+epoch 29
+
+sampled text
+----------------------------
+Ml:Õbfur.
+Howanã Gol-pindy
+sapll"d waR, omacnePm;?-
+e veyke,
+tu ton hnctoreag
+a yvl,kJich. H."Ly hg
+
+
+tested text
+-----------------------------
+input:
+! Watson
+you here! I'll take the armchair in the middle. I think that we are
+now sufficiently imposi
+
+output:
+"Whth n t u ta   "I s ywh   whe tneeeitn on the tan  y  I when  ohet ta hne tou thr rnhn   y tn er n
+
+
+###################################
+
+##################################
+
+epoch 30
+
+sampled text
+----------------------------
+A…;Gower Halds'te
+auk'nd5, wnor Gibly.W."
+ -"Ynilewkngt.
+ On'v? 
+ that to,lk?"
+Ml"I !mHed ayftice'th
+
+
+tested text
+-----------------------------
+input:
+g Daulat Ras, an Indian student, who lives on the
+same stair, came in to ask me some particulars abo
+
+output:
+htavl   was  andt dinn toar     aieumooer af the   re tootn  aome tn th tn eoa tiue tateenhsl e inlu
+
+
+###################################
+
+##################################
+
+epoch 31
+
+sampled text
+----------------------------
+«jy!s ou- mintlefn, ro°. Sp ad,f llole. O∏pbraav-rryagrseQfftt."7 seWawd,d'n
+nfay -
+pleweyI nTocf,am
+
+
+tested text
+-----------------------------
+input:
+ne figure of a man, tall, lithe, and agile, with
+a springy step and a pleasant, open face. His troub
+
+output:
+g worhte tf tndest ah    Ioth   and hn te  ahsh  npuaesg  tiarrind tnmooat nd  anrn tore  Iol aheugl
+
+
+###################################
+
+##################################
+
+epoch 32
+
+sampled text
+----------------------------
+_ltue lpojtty sispprfarhsillyoc, bfalld-dfopyrfureptonlivg anst'bnttyy io gualyop
+owI wunccarca--mly
+
+
+tested text
+-----------------------------
+input:
+?"
+  "He was very ill, poor fellow. I left him collapsed in the
+chair. I was in such a hurry to come
+
+output:
+"
+  "Ye was tere tn e torn horl w  I woar ias soulegeen tn the  hitn  I was tn thrheantasee th toue 
+
+
+###################################
+
+##################################
+
+epoch 33
+
+sampled text
+----------------------------
+denky maGrriims,
+urMw eg bunund'ss glverwhy -Yoss enRo't!y y pors of
+m- onqugisTHas l"
+m "re
+pefou!
+
+
+tested text
+-----------------------------
+input:
+itting-room of our client opened by a long, low, latticed
+window on to the ancient lichen-tinted cou
+
+output:
+nh ng  ou  sf tnl tootn  of n   te tndoug  aoo  aot  nh. oasg   tf th hhe tndenn  ooth     ng   aoul
+
+
+###################################
+
+##################################
+
+epoch 34
+
+sampled text
+----------------------------
+Fmar.F"Ye supN:glo. SEammm
+sugdowg, wtoer.m'KchyeserW˝ I
+chems
+It'vlot
+juct
+plesidirot."H avdckgly 
+
+
+tested text
+-----------------------------
+input:
+hich is strewn over it to prevent the athlete
+from slipping. Have I told the truth, Mr. Gilchrist?"
+
+
+output:
+enh an aeeee  tfe  an th heeaer  ihe sn ee   toowesoeceeng  Wele s wh l the shethe sr. Silmhiest "
+ 
+
+
+###################################
+
+##################################
+
+epoch 35
+
+sampled text
+----------------------------
+Ë8ienet, hat
+alwyN
+s
+wyJfer sisct.
+Amknntchis'?"
+s
+ehs burpetily
+bRitig.,
+s ap:mits, arveateend hed 
+
+
+tested text
+-----------------------------
+input:
+
+my room must have been within a very few minutes of my
+leaving it. His forgetfulness about the key 
+
+output:
+heouoom sest iese te   thsh ngtndere tor tength  af te teadeng tn  Iel aor e   rd s  anlus bhe ped a
+
+
+###################################
+
+##################################
+
+epoch 36
+
+sampled text
+----------------------------
+¡rn,w, mrom, blarQ itiknof, yiulpre√lcuchpam?
+ thaed,afhve reitwiad.qNe.T onl, Eed.,"  go, in ntahvh
+
+
+tested text
+-----------------------------
+input:
+ected his entrance
+there, left traces as he passed through the bedroom, and finally,
+finding the doo
+
+output:
+xh r aas txohetge the    so t ihetk  an ie han  d thee theahe ted eo   and horgtle    rd sg the soun
+
+
+###################################
+
+##################################
+
+epoch 37
+
+sampled text
+----------------------------
+verte, y'W
+yfaride,"I a.vHislrism-kn""-w thinK
+nxiwy da
+verpptolf.
+WrWaigr."
+s Gicnimke.
+ Iyinhyole.
+
+
+tested text
+-----------------------------
+input:
+not realize that it
+was I who was knocking, but none the less his conduct was very
+uncourteous, and,
+
+output:
+gw Ie tlne thet tn was i waeuhas heowk ng  aet ioug the toat ias toue sh aas iere wrdems    s  and  
+
+
+###################################
+
+##################################
+
+epoch 38
+
+sampled text
+----------------------------
+k! :y
+BMr ldly, heFurdiben. Wan fh weuBblea. "Thatd Uo ,"RnlyoM htuiskry,
+erEacsuthy,
+nac1are wa pak
+
+
+tested text
+-----------------------------
+input:
+ind. He was pacing swiftly up and down his room.
+  "I should like to have a peep at each of them," s
+
+output:
+ng  We mas tetkng toasl e unpand tone tam teom    "W sia rd totn wh teve tndarnrsn txse af the    sa
+
+
+###################################
+
+##################################
+
+epoch 39
+
+sampled text
+----------------------------
+˛atr."A  ht
+kend, Soadech,te ugve!r wioaice.r- Stayd hoszewhr,
+ynctlors.,
+Krhe,o rMk. be, Ith. Th
+
+
+tested text
+-----------------------------
+input:
+ This, the best and only final
+clue, has run to nothing. But, indeed, I have little doubt that we
+ca
+
+output:
+Hhen  Ihe tedt ond hf y totgtlholtd aet totdth tou eng  Wan  an   r  a dave toth y toonleahet Ia whm
+
+
+###################################
+
+##################################
+
+epoch 40
+
+sampled text
+----------------------------
+{woox, Batlloker.'" Ba y- faledco  oYes Ghim 
+mponl, wurfillori wyouie.. MÄZey."
+ FWhon; gy, Sotepo,
+
+
+tested text
+-----------------------------
+input:
+ude fellow," said our guide, flushing with anger as we
+withdrew down the stair. "Of course, he did n
+
+output:
+n ntorlew   said Hfs thtn   aoetteng tash tndedean ia hash  e  son  the siorn  IOn thur    ai mon to
+
+
+###################################
+
+##################################
+
+epoch 41
+
+sampled text
+----------------------------
+aSradrgeuy soagb iorvile?
+ sexulnd
+ouid
+y
+the
+t yHymoll baive yount ottotnangyRutwnet'ru —bry."" "be
+
+
+tested text
+-----------------------------
+input:
+ed his son all I could for the sake of
+the old days. Well, sir, when I came into this room yesterday
+
+output:
+x Ias teugtnleh wauld tor the tire sf the tnl tot   Ih l, sin  whe  t fame tn e thet teom soa  re n 
+
+
+###################################
+
+##################################
+
+epoch 42
+
+sampled text
+----------------------------
+re.
+ v E6otnR fle rupwpbeck.
+,
+amqus of
+blohÁyan thimk damppmbrestithheBotsin.rle zly ly,Deivy deayl
+
+
+tested text
+-----------------------------
+input:
+r learned guide.
+  "Dear me!" said Holmes, and he smiled in a singular way as
+he glanced at our comp
+
+output:
+eaoxk d  ahtn     "We   Ia "
+s id Holmes, and ha thanl  tn tnfhngetl eoas tn we phytge  an ins aouee
+
+
+###################################
+
+##################################
+
+epoch 43
+
+sampled text
+----------------------------
+cDy.iKy Douynu harvauplF.", "heghis, tNidhOiJ Holvdryt, The grytscibbak'cladlo,
+WarNu
+tvRsowall"Bwyv
+
+
+tested text
+-----------------------------
+input:
+othes behind it. If anyone were forced
+to conceal himself in this room he must do it there, since th
+
+output:
+n e  ae eng tn  I  wnd u  sare tor e  wh touee t has   l tn thet teom sa tast aoumn the    aingt the
+
+
+###################################
+
+##################################
+
+epoch 44
+
+sampled text
+----------------------------
+ƒm9la pabqd. Wask,
+ w!ac ourseque sPprov
+entvt enid? r ellDed."
+ ,"If wald'sthen: werqoicun lmatkhit
+
+
+tested text
+-----------------------------
+input:
+solved the mystery."
+  "But what fresh evidence could you have got?"
+  "Aha! It is not for nothing t
+
+output:
+ n,er hhe taouer   
+  "Yan iaet Ioeatiixen   t tauld tou tave tht "
+  "In   I  wn aot tor aot eng th
+
+
+###################################
+
+##################################
+
+epoch 45
+
+sampled text
+----------------------------
+œuipe satplitc- thaem,
+tol
+wrIl wFr?"Y nugcey
+hloomgdulo wxd.kLut te hlitisimachouk t;."The
+at igop 
+
+
+tested text
+-----------------------------
+input:
+s one day it has pro-
+duced the most deplorable consequences.
+  "The moment I looked at my table, I 
+
+output:
+ af  ton tn tas beoomd th  hhe tant iorrenedle touetruid e     "Whe sane   o wook d an ie thile  I d
+
+
+###################################
+
+##################################
+
+epoch 46
+
+sampled text
+----------------------------
+n;y.
+ 1"d, ht Jsgundy pair -, in.
+hamm, Ifthte eay
+s b- Coveriner,
+wn
+hyose?bmeenpllidy.w rxtiy
+mirl
+
+
+tested text
+-----------------------------
+input:
+g part. Why should a
+perfectly honest man -- Well, well, here's a large stationer's. We
+shall begin 
+
+output:
+htase  Hhe haaurd yndoreirt y uaug   aes t- aall, sirl  sid  s antoteedtiot nn   s  Th tiadl he rngt
+
+
+###################################
+
+##################################
+
+epoch 47
+
+sampled text
+----------------------------
+ïcwal
+ oDMcOfyto
+qemcakeglexefh i∏ ik.
+ ftaccl, I haEtht' o etak t
+uiku u!ched"!"Lu's as
+licn
+Ig
+mel
+
+
+tested text
+-----------------------------
+input:
+uffering from this sudden disturbance
+of the quiet routine of his life. His plump face was twitching
+
+output:
+n  r sg toeoeshet ter  nttont reetge tn the tuisd toun ng tf tas tettr Iel aaoteeaott tas thesho sg 
+
+
+###################################
+
+##################################
+
+epoch 48
+
+sampled text
+----------------------------
+w. T"Foanabk Giting-dnedert Yelwref aiZgo h- crop."fu at9?W
+wB wnit
+ctunete
+yms iag? I cank y-d oa B
+
+
+tested text
+-----------------------------
+input:
+r points," said he, "but
+really, in this matter of the length --"
+  Holmes held out a small chip wit
+
+output:
+eaoong    said He  IHet weanl   an thet tes  r af the toatehet- 
+ a"olmes aa e tfs tndoanl hoetetash
+
+
+###################################
+
+##################################
+
+epoch 49
+
+sampled text
+----------------------------
+y, rs
+cemyecincwo haHeltet be
+kmexacallossI mpyisrskg cipymiad's, se?xPiniif aig, souhval-
+bliom,?" 
+
+
+tested text
+-----------------------------
+input:
+n had found me out. Here it is,
+sir. You will see that I have said, 'I have determined not to go
+in 
+
+output:
+etav tornd ha tns  He edsn tn  aire Iou tesl wi dthet t have tord  as tave toahr eng  to  th thumngt
+
+
+###################################
+
+##################################
+
+epoch 50
+
+sampled text
+----------------------------
+Baknit iwsproprrupyute
+n shavo ghentiIag
+molf
+dhymiob wnow w9usp on˘tyzeno, Houxp?f
+t un
+migf?  ghyT
+
+
+tested text
+-----------------------------
+input:
+lmes held it out on his
+open palm in the glare of the electric light.
+  "Your visitor seems to have 
+
+output:
+yes,wa e tn tus bn tas  nen ioteesn the shote tf the txl t eshmosh     "Tou  ses nh  tird  ih teve t
+
+
+###################################
+
+##################################
+
+epoch 51
+
+sampled text
+----------------------------
+."
+  "∏en vio
+itses. E`Yhy aav
+Ptainio!"
+f it?"S whse, izly.A
+wloN. LomüJnofryof pRfvlyalere, I wSi
+
+
+tested text
+-----------------------------
+input:
+ithin and a heavy oak one without.
+As I approached my outer door, I was amazed to see a key in it.
+F
+
+output:
+n engtnd hnsadde yf  of  tash  s     I wm eeone   ta tns   aown  a was tnene  th mer tnden tn tn   o
+
+
+###################################
+
+##################################
+
+epoch 52
+
+sampled text
+----------------------------
+ame, ANo, k.') nems efechad.
+P,"Ln, veer!"
+ al-, Intoct?enelvd-ca
+rhualy.O h he ."OQ Gopin'agl prcam
+
+
+tested text
+-----------------------------
+input:
+ht away for you."
+  "I should like to have a glance round. What a charming,
+old-fashioned room! Perh
+
+output:
+e In   tor aou  
+  "Y sia rd totn th teve tndhytge toogd  Ihet hndhat yng  anl  ir  nn   aoom  Ieroa
+
+
+###################################
+
+##################################
+
+epoch 53
+
+sampled text
+----------------------------
+É
+Bbrrmy. L1usI hice y Ojk,'s."
+t IulRtestt;drntute mm,ttertee
+t thoBBbasin't nid -rotrle?"
+  Th7le 
+
+
+tested text
+-----------------------------
+input:
+e to have a glance round. What a charming,
+old-fashioned room! Perhaps you will kindly wait a minute
+
+output:
+xthomeve tndhytge toogd  Ihet hndhat yng  anl  ir  nn   aoom  Ieroade aou tasl wesg y tasd tndangth 
+
+
+###################################
+
+##################################
+
+epoch 54
+
+sampled text
+----------------------------
+û9nce?"N I i9buafty
+ta?p 2ptheow Thanfe!m thocgulf ee"
+llI ubtienlt Hooppudwombs goulo -! JlHadme fi
+
+
+tested text
+-----------------------------
+input:
+flushing with anger as we
+withdrew down the stair. "Of course, he did not realize that it
+was I who 
+
+output:
+ etting tash tnd dean ia hash  e  to   the siorn  IOn thul    ai mon tot teatlne thet tn was i waauh
+
+
+###################################
+
+##################################
+
+epoch 55
+
+sampled text
+----------------------------
+Ùp t∂'y
+ WSP.ur-ros -n5y
+oidscppreeket,. Hs, as moknizf o."
+ wToumy
+y
+me tew Sofces-reve bz y; heun?
+
+
+tested text
+-----------------------------
+input:
+ papers inside?"
+  "It was most unfortunate. sir. But I have occasionally done
+the same thing at oth
+
+output:
+Iosens in ts  "
+  "I  ias ae t inder ertt   I r  Ian i have tfeurenn dl, tooe whe tire thetg tn in e
+
+
+###################################
+
+##################################
+
+epoch 56
+
+sampled text
+----------------------------
+serngHongot,"isik'sKven tEkecs assm. Ihg saruce is Eouhd?"
+  BoÄs merned?"
+l "Cmydw,ullasid
+btces, w
+
+
+tested text
+-----------------------------
+input:
+ there he
+could see if you came across the courtyard, and so could effect
+an escape."
+  "As a matter
+
+output:
+Ihe e wadchuld tirdtn tou tane tnt o  ohe sauld  n   and htrmould tx irt andtxtener 
+  "In tndes  r 
+
+
+###################################
+
+##################################
+
+epoch 57
+
+sampled text
+----------------------------
+µwhr?"
+s aOy'usbivel ylzwe
+harcom," Mo fam o
+I sury?"
+Q"RFou?ÔhI tomfst Cesm
+itmulpapusŸ
+h
+sh'h I ap
+
+
+tested text
+-----------------------------
+input:
+are all in their nests," said Holmes, looking
+up. "Halloa! What's that? One of them seems restless e
+
+output:
+n  Hnlegn the s sost e  said Holmes, aowk ng tnp I e   wk Ihat s thet "Ine tf the  tird  ioat e t if
+
+
+###################################
+
+##################################
+
+epoch 58
+
+sampled text
+----------------------------
+Zuparnt sheqteabllouk
+wardad?h
+MrFbe, mod iq i"df wamer."
+ u"tod
+ioke, bu ß-ankra no.
+RMy. baf'tshe 
+
+
+tested text
+-----------------------------
+input:
+drobe too shallow. No one there, I
+suppose?"
+  As Holmes drew the curtain I was aware, from some lit
+
+output:
+ ewldsh nshat  w  To hn  the e  s direrned"
+  "n tolmes,wood she tareern t has hn le  aoamesiue toth
+
+
+###################################
+
+##################################
+
+epoch 59
+
+sampled text
+----------------------------
+∆munayusi
+deccmod om. LÊy
+ehot?"
+  "Golm? And walle, ap
+apisd thepets bre, We lroze rjucu? L M5˝ssp.
+
+
+tested text
+-----------------------------
+input:
+ncident. He had
+nearly fainted when we found that the papers had undoubtedly
+been tampered with. I g
+
+output:
+een n   He mas te d y torn    aai  thrtorrd hhet the papers ias tndensle  e ween thre n d thsh  T wh
+
+
+###################################
+
+##################################
+
+epoch 60
+
+sampled text
+----------------------------
+∞is; bld? I
+lbtilves AttelttagePlom.BOn tillr!ger," inat inpa, hupbe kice,  Qurizf?"
+ oGmac.
+MrThas 
+
+
+tested text
+-----------------------------
+input:
+ed
+on drawing it in his notebook, broke his pencil, had to borrow
+one from our host, and finally bor
+
+output:
+x wn toetisg tn tn tas toth lu   aeenedtam teatinl aid th meu ew wf  toomesfs tau   snd hor tle teue
+
+
+###################################
+
+##################################
+
+epoch 61
+
+sampled text
+----------------------------
+—ˆl
+ie dyou!" rRkeva Anwam --- tevuif Firql puanunisoig! No“'s, an,"ufwo,. Freysoa!d bewt no,
+bur u
+
+
+tested text
+-----------------------------
+input:
+llusion to the matter that day, though
+he sat lost in thought for a long time after our belated dinn
+
+output:
+yygtnn th mhe pas  r ahet tot  ahe r  de mar bewk in the g   oou anfoog thee tn er aft teey e  totg 
+
+
+###################################
+
+##################################
+
+epoch 62
+
+sampled text
+----------------------------
+wOur tuyet, lrage?"
+'latt phianlw,
+caWvand-Vprisatetwy t"Da tTce's vrowas anly,sao?
+-
+" expitneytims
+
+
+tested text
+-----------------------------
+input:
+date could prepare it in advance. For this reason, great
+care is taken to keep the paper secret.
+  "
+
+output:
+ n  tould teeaene tn tn tn erte  Tor ahes tean    hha t hone tn th    th tel  the tanersaire d    "T
+
+
+###################################
+
+##################################
+
+epoch 63
+
+sampled text
+----------------------------
+Ollvadurvr
+donaurtlut ol. II wiug an t. Why it avcn. wieŸ I wil t; ythutucg h hijuct 2"
+hen be.l He
+
+
+tested text
+-----------------------------
+input:
+n the clue for which he was searching.
+Only at the third did our visit prove abortive. The outer doo
+
+output:
+ethe paotdtor aaith ae pas aead h ng     y fn whe these won tnt testnhtaeuertnlu  ne  The cnr r aonr
+
+
+###################################
+
+##################################
+
+epoch 64
+
+sampled text
+----------------------------
+, MN.
+Ha. Pesto bon
+swiy
+ixﬁwhet url?"
+' Jeadvice oYas shEivus'ans onisy."U  Bpinq! aif
+mssint.hI,
+j
+
+
+tested text
+-----------------------------
+input:
+You have not mentioned to any of the three gentlemen
+whom you attend that anything is amiss?"
+  "No,
+
+output:
+ou heve tot ta t nn   th tnd hf the theee what e e  thiu tou tn  r  thet tnd heng tn anent "
+  "Yo, 
+
+
+###################################
+
+##################################
+
+epoch 65
+
+sampled text
+----------------------------
+ãwus duscerCemerim s'or?W. GrrofnJbeg To kens.-m wommanin, lter,har, U" aie, uafe sgact
+qpese?"." G
+
+
+tested text
+-----------------------------
+input:
+ stand still,
+so great was his mental agitation, and he ran towards Holmes
+with two eager hands outs
+
+output:
+Ihhke hiael, s rmoodt has aas test rltn nhtion  snd ha toydth      aolmes,wash theulnv   aas  eafs  
+
+
+###################################
+
+##################################
+
+epoch 66
+
+sampled text
+----------------------------
+éljjagrdefr-dicGpac-- prepaid cutd--brlkeysieh uYuvItiviff.
+;  Helwa
+, a's
+I Aesk ghpen,layeg a; Wo
+
+
+tested text
+-----------------------------
+input:
+ the door," said Holmes. "Now, Mr. Gilchrist, we
+are all quite alone here, and no one need ever know
+
+output:
+Ihe cour   said Holmes, " o,, Mr. Sildheist  ahrwnd tnletuite tnl g ta e  and hotmn  to d tner aeow 
+
+
+###################################
+
+##################################
+
+epoch 67
+
+sampled text
+----------------------------
+
+pxcinRowÔ quo noren, souditulom,
+quTduljbkespsi;h wthknlit.'
+ vec't!t uaEngquot, t
+. TÓkDll," seivi
+
+
+tested text
+-----------------------------
+input:
+this paper arrived
+from the printers. The exercise consists of half a chapter of
+Thucydides. I had t
+
+output:
+hen tasensan ese  woomeshe taocg r e Ihe cxamshntdtouetsteeaf tas  tndoatee  af thete un    T wav th
+
+
+###################################
+
+##################################
+
+epoch 68
+
+sampled text
+----------------------------
+xpqusivjuckk nngh an
+gimes ho :ig, thirgum Lotfonraghers plretit. I hxuplncuplcciizctllyriummcke, hr
+
+
+tested text
+-----------------------------
+input:
+oms is quite the oldest in the college, and it is not unusual for
+visitors to go over them. Come alo
+
+output:
+n  in tuite the pnl rt on the saule    and hn tn tothtndttrd hor tentnh  ,ih hhumuer ahe e Iome tnl 
+
+
+###################################
+
+##################################
+
+epoch 69
+
+sampled text
+----------------------------
+N! EesGll't
+tiScrco
+mvaikr,!thit  olunlyke.
+Kft.
+BB5n sof yavh N."∏ yOev'dKithingh uls Itomve..
+  It
+
+
+tested text
+-----------------------------
+input:
+ent happened to him in the rooms of
+the Indian -- a silent, little, hook-nosed fellow, who eyed us
+a
+
+output:
+x  oas entd th mes sn the soom  af the t dinn t- tndonl d  aoth y  ai r       aorl w  aiauhxod ar an
+
+
+###################################
+
+##################################
+
+epoch 70
+
+sampled text
+----------------------------
+and,
+ans t'tTroken ldstrw dby.
+? Yesitadasnefinttcpnonrid.. TPer'•-nt. AForõnbbeg fritchTuLbime sav
+
+
+tested text
+-----------------------------
+input:
+d-working and
+industrious. He will do well.
+  "The second floor is inhabited by Daulat Ras, the Indi
+
+output:
+ 
+au  ng tnd hn  steesns  He masl to tarl    "Whe sirene toewk hn tn e lt   te tisrl  tes  ahe t din
+
+
+###################################
+
+##################################
+
+epoch 71
+
+sampled text
+----------------------------
+∆r aë, Mr5yrindor.e
+ v"rr,"B twereddad-öy.I st panalhemy
+onFois.t. EEy thurd if w pnips. M9ökssica
+
+
+tested text
+-----------------------------
+input:
+squares of light shone above us in the gathering
+gloom.
+  "Your three birds are all in their nests,"
+
+output:
+ uise  af totht iteue hnluertn an the sht e  ng toowk    "Wou  shee  wet  tan  tnletn the s soat e  
+
+
+###################################
+
+##################################
+
+epoch 72
+
+sampled text
+----------------------------
+Rbucorl ly
+y;teras by
+uwhilbowcuxcelFanev. I
+a havefnno.
+
+plossebver'smusteg txamplbiw??"
+ ;" ths W
+
+
+tested text
+-----------------------------
+input:
+time.
+  "The first page on the floor, the second in the window, the
+third where you left it," said h
+
+output:
+hne    "Ihe sar t oase tf the soowk  ahe tirend hn the sasd    Mhe  hen  whe   wou heat in   said He
+
+
+###################################
+
+##################################
+
+epoch 73
+
+sampled text
+----------------------------
+é yas
+enoo,
+wnocrul." Wettly's
+dutsie whof ba pulip. Inthes éotblor- dnttris far,e rovoue!- Now ute 
+
+
+tested text
+-----------------------------
+input:
+amination to be held if one of the
+papers has been tampered with. The situation must be faced."
+  "Y
+
+output:
+nengtinn th he tadl tn tn  tf the srners ias been threen d thsh  The cin ld nn tost ae tore   
+  "Io
+
+
+###################################
+
+##################################
+
+epoch 74
+
+sampled text
+----------------------------
+C jTJlef iewtI nem."
+ lithmsteevinRno flemus
+rarskins.- uxaffiCofted: potstra-ïe? Hn eak?"
+  Yoa Lut
+
+
+tested text
+-----------------------------
+input:
+n hinge, and large enough to admit a man."
+  "Exactly. And it looks out on an angle of the courtyard
+
+output:
+etam    and heteedtnoughaah tn enhondend 
+  "Ixamt y "T d an towk  aft bn tndtndey tf the tauld  n  
+
+
+###################################
+
+##################################
+
+epoch 75
+
+sampled text
+----------------------------
+WelmYoud
+w--murNlj÷gam,
+y arckDGil?
+ het'rblaaYel
+om"-
+amas amcte.
+C 
+bek, wht
+vired's wo"ss. D Erãb
+
+
+tested text
+-----------------------------
+input:
+y papers. He denied it, however,
+with the utmost earnestness, and I am convinced that he was
+speakin
+
+output:
+ uasens  Te menttd tn  ai   e   wish the pnhen  inv  d  e    and h hm soueesge  hhet ta pas  eanteng
+
+
+###################################
+
+##################################
+
+epoch 76
+
+sampled text
+----------------------------
+%¡Com on peg'&lkevi,
+Bakt!
+ lewknnht
+ielee s up. fFce, Rht rtamseh wI
+Mrexisad-ly dfeetBt ruldeca vf
+
+
+tested text
+-----------------------------
+input:
+ we reached the
+scene of our problem. Holmes halted and looked earnestly at the
+window. Then he appr
+
+output:
+Ihrhoatk d the p anedtf tnr taoole   He mes,wes  d and howk d tnt  d  e un whe kasd    The  te cnlee
+
+
+###################################
+
+##################################
+
+epoch 77
+
+sampled text
+----------------------------
+9%mend
+Banougll?"GadsNout Tlerqeist?
+r hulde ist ."Wh,"'' wosbyim s!f i-donexd eut ceed
+uceir tfteif
+
+
+tested text
+-----------------------------
+input:
+So I read it."
+  "Surely there is another alternative, Mr. Holmes. I don't
+know whether you observed
+
+output:
+oam soan tn  
+  "Yoae l the e wn ttd  e  andhr etioe  ar. Solmes, " wougt teow the  e  aou tnee  e  
+
+
+###################################
+
+##################################
+
+epoch 78
+
+sampled text
+----------------------------
+hid In Enkibtlumasaly.G."3  W'n¬admew rbathsow, udlibghan colle'u?" h
+om⁄hg on yhev.
+ pGulof,
+porcho
+
+
+tested text
+-----------------------------
+input:
+on his blind. He was pacing swiftly up and down his room.
+  "I should like to have a peep at each of
+
+output:
+n tes teeng  He mas teseng ttasl y hnpand tone tam teom    "T sia rd totn th teve t darnrsn txsk af 
+
+
+###################################
+
+##################################
+
+epoch 79
+
+sampled text
+----------------------------
+:ª ep"is. Iy hhp9s
+h,"nfok yerccel?" e y?L
+omos'l. Whatre Ssied w9s Geapibilf.t A Hisftfigez abllo! 
+
+
+tested text
+-----------------------------
+input:
+ my
+future narratives. Here it was that one evening we received a
+visit from an acquaintance, Mr. Hi
+
+output:
+Ia terhre toteedine   We e sn tas thet tne wxertsg ta toatrne  hndentnhtoeuesndtnkuinng rge  ar. Sol
+
+
+###################################
+
+##################################
+
+epoch 80
+
+sampled text
+----------------------------
+sbevamentte sachre."C Bimseardes, stokr,y ufOnite youddlyanjbyj
+Bane, Whradlrak jicg?.", "'s pis iHe
+
+
+tested text
+-----------------------------
+input:
+ was re-
+markable. I will endeavour, in my statement, to avoid such terms
+as would serve to limit th
+
+output:
+Ihs aoamain enle  I wasl wf irre s  an ta teor       ah snern torh ah  e in tauld horeerth tesenethe
+
+
+###################################
+
+##################################
+
+epoch 81
+
+sampled text
+----------------------------
+ingt
+ypsuidy;y if noi!t Irmmlkod; pencnmbt, wish-pint.
+W owƒynaytup-dort to bezxpsoin-
+dVaryve gusp
+
+
+tested text
+-----------------------------
+input:
+llows.
+  "Bannister was very much upset by the incident. He had
+nearly fainted when we found that th
+
+output:
+yyk,, " "Yann ster ais tery hash ar e  te the tngel     He mas te d y torn  r aai  thrtourd hhet the
+
+
+###################################
+
+##################################
+
+epoch 82
+
+sampled text
+----------------------------
+?"LuThe sruof, trat¥d thize
+b-udrs?
+ vilp wescendeick,i do. Teme ofIgn,thforejls uscw rpedt mt. Hob
+
+
+tested text
+-----------------------------
+input:
+st now, and I desire no distractions," my
+friend answered. "I should much prefer that you called in 
+
+output:
+ eiou  Mnd h hoatne totmont etk nn    sa teos   tnd ered  HO wiaurd tash aeeeid thet tou hanl d tn t
+
+
+###################################
+
+##################################
+
+epoch 83
+
+sampled text
+----------------------------
+ôtayow ot But nsurecthird. hn Gredp;o w s-my in'slo
+cevricano if
+cloulqursth muofe? ly ocqoDi-
+that
+
+
+
+tested text
+-----------------------------
+input:
+nter, and see if they were indeed the proofs. It was not a
+dangerous exploit, for he could always pr
+
+output:
+e r  and hirdtn the  uhre tn e r the paooms  H  was aot tnd bd d us axarinn. aor ta mauld tnd r  aoo
+
+
+###################################
+
+##################################
+
+epoch 84
+
+sampled text
+----------------------------
+Thejes,
+yok fuc sof tiverk
+uling. By.
+uneliof dxacwMr. Hove"dvte  iPAsnsm whe huakt. Eovelm!
+ thho c
+
+
+tested text
+-----------------------------
+input:
+, forced himself through it. Such an idea was
+absurd. I was measuring how tall a man would need to b
+
+output:
+"Mur en ais     thee thean  Hoaheir tn nrtar  nleree I was aenn letg ta  th l hndantthuld ho d th me
+
+
+###################################
+
+##################################
+
+epoch 85
+
+sampled text
+----------------------------
+V hud Whid zeys, lowySan Davedm.,"  Pxavish
+kibjpm.o
+, mCer sosminano'ndo! Ind, Mld!nK,nathrpe
+s?"A 
+
+
+tested text
+-----------------------------
+input:
+curtain disclosed
+nothing but three or four suits of clothes hanging from a line of
+pegs. Holmes tur
+
+output:
+hnearn tontelos  tot eng teththee  wf tors tird  bf theoee  wes  ng toeueansong tf tonrt Ho mes whr 
+
+
+###################################
+
+##################################
+
+epoch 86
+
+sampled text
+----------------------------
+}y."T MBJgaise cours dNoms,
+whe
+ subem, h memu hat
+owMr.' MaΩ S'n me
+redoftiged,ol, fixavere.",  Ar
+
+
+tested text
+-----------------------------
+input:
+t university towns, and it was
+during this time that the small but instructive adventure which I
+am 
+
+output:
+hIndter enh hh   t and hn tas  otdtg thet thee thet the pianl tet tn t eth ne tn ert re taith a wmps
+
+
+###################################
+
+##################################
+
+epoch 87
+
+sampled text
+----------------------------
+l'Lstegtlpan take, Pism e hamo
+u dxceenofinedat.' EEyur-?"
+d he.
+Tp-hiEron?"
+e."
+"
+o Imxchn?. On"y? 
+
+
+tested text
+-----------------------------
+input:
+narratives. Here it was that one evening we received a
+visit from an acquaintance, Mr. Hilton Soames
+
+output:
+et  y ne   We e sn tas thet tne wxertsg ta toatrne  hndentnhtoeuesndtnkuinng rge  ar. Solm k toames,
+
+
+###################################
+
+##################################
+
+epoch 88
+
+sampled text
+----------------------------
+Wivsirs. I ared. a lo?
+Heapizengexr af co crmcpnic. e◊ nassd!y MuFfin. I mis
+pwesher. Nog -"You." ve
+
+
+tested text
+-----------------------------
+input:
+ent at St.
+Luke's, and really, but for the happy chance of your being in
+town, I should have been at
+
+output:
+x  on woa Lurens  and hoatl   aet oor the tavee ioat e tf tou  teeng tn th    a waaugd tave teen tn 
+
+
+###################################
+
+##################################
+
+epoch 89
+
+sampled text
+----------------------------
+id dmerproay
+unjusghinqchtaryon'sHil, dirutcjtid cage?o korles, ink eet, you.
+
+woaddaycbsteredSahem
+
+
+tested text
+-----------------------------
+input:
+ve told that the papers were in
+your room, the case began to take a definite shape in my mind.
+The p
+
+output:
+erth l thet the papers ia e tn tour toom  ahe sam  te rteth mhke tndorrngth tiate tn ta teng   he la
+
+
+###################################
+
+##################################
+
+epoch 90
+
+sampled text
+----------------------------
+buen?
+Fettlomm!q"i quat,, un?
+CtY. 
+carsgimicnirg, yourscom,?"t tid? LNow. Whein to lhytcossede fimp
+
+
+tested text
+-----------------------------
+input:
+ drawing it in his notebook, broke his pencil, had to borrow
+one from our host, and finally borrowed
+
+output:
+Ioek sg tn tn tas tothrlu   ayenedtam teatisl sid th meu  w wf  toomesft tau   snd hor tl  weueew   
+
+
+###################################
+
+##################################
+
+epoch 91
+
+sampled text
+----------------------------
+ood
+rl¶ive, t"RMr,-Byrlfs. Hestroos."" ,"Nngweg wMs somel, nof os Who, choari3whfte croNoDs-q" Teali
+
+
+tested text
+-----------------------------
+input:
+t go so far as that. But, of the three, he is perhaps the
+least unlikely."
+  "Exactly. Now, Mr. Soam
+
+output:
+hIhumoumor tn ihet  Han  an the theee  se cn taneede ihe slrd  ondesn    
+  "Yxamt y "To   Mr. Soame
+
+
+###################################
+
+##################################
+
+epoch 92
+
+sampled text
+----------------------------
+solzlw tor cola-bace wNo tpotnugat?"
+ b"Pzedlis'hesd
+poig. F9Nopshimin.
+I gid?R powy, rep'fiteln mat
+
+
+tested text
+-----------------------------
+input:
+ere scratch, but a positive cut.
+Not only this, but on the table I found a small ball of black
+dough
+
+output:
+x ,tiaecee  het tndantnete tosh  o  an y thet  Iet on the thble t aound hndianl tetl tf teetk yonn  
+
+
+###################################
+
+##################################
+
+epoch 93
+
+sampled text
+----------------------------
+! Wny-vas,?"
+ "R oim., seassheunp'dlyshald paknieey s poa
+e aid necherere. Mr5kce
+b
+mway, wh weew l!
+
+
+tested text
+-----------------------------
+input:
+hen you
+sat down on that chair yesterday, did you do so in order to
+conceal some object which would 
+
+output:
+e  tou d b to   tf thet toatd Hoa  r  n  aot tou touttumngtf  nsah mhuee l hu e sfludt aaeth ahuld h
+
+
+###################################
+
+##################################
+
+epoch 94
+
+sampled text
+----------------------------
+ngo !"To dI Wamakela!"Ny.'s
+iGlyel. CNoomen"tsavize t yLick,same ald bhestrepoxmpy's." OWet?dr's mas
+
+
+tested text
+-----------------------------
+input:
+that we
+can build up a sufficient case without it. By Jove! my dear
+fellow, it is nearly nine, and t
+
+output:
+het Ih hhndtetnl tn ansir rnhnn  ohm  tash rs bn  Iu nomer Ie toar worl w  Mn tn to r y totd  and hh
+
+
+###################################
+
+##################################
+
+epoch 95
+
+sampled text
+----------------------------
+at rejÍanccrm. Mr1iux -lNbidrbyses vanjustanf lub˘r quBamp-r." sI sfimel!
+ve sative."
+  M∂2 i9≥t Bt
+
+
+tested text
+-----------------------------
+input:
+ are the one man in the world who can
+help me. I beg you, Mr. Holmes, to do what you can."
+  My frie
+
+output:
+Inv the tne tasttn the pauee tae hamdwi l se  I we rtour sr. Solmes, ah toumait tou han  
+  "r trosn
+
+
+###################################
+
+##################################
+
+epoch 96
+
+sampled text
+----------------------------
+ıdintisequicare--" e in at p"d mow? A at?" FoBdBbrattRn,. "No,!"
+k chaidbedvby tok yrpols urdawnoboE
+
+
+tested text
+-----------------------------
+input:
+ I imagined that Bannister had taken the unpar-
+donable liberty of examining my papers. He denied it
+
+output:
+Inhn n ng  thet tannister his thke  the prdere-aoodtle totj  . af tnamingtg ta trners  Te menttd tn 
+
+
+###################################
+
+##################################
+
+epoch 97
+
+sampled text
+----------------------------
+y nrbugcWebsedero."
+ keS
+ave ff
+suon
+wrentsy llascLio
+arveld dool vene,d inzzetk Thiod
+pyouads?"
+ lA
+
+
+tested text
+-----------------------------
+input:
+n your master left?"
+  "Only for a minute or so. Then I locked the door and went to
+my room."
+  "Who
+
+output:
+etou  test r aoat "
+  "In y tor tnfangth tf tiu Hhe  t faoked the poor hnd tart th se aeom  
+  "Ihan
+
+
+###################################
+
+##################################
+
+epoch 98
+
+sampled text
+----------------------------
+_id, bat yoC aqhac in esq,e erndot.?"
+s Mn hente) Mry he alvutyguarc aplote conlofguy t‘on. You at l
+
+
+tested text
+-----------------------------
+input:
+chair, and nothing
+would budge me until Mr. Soames went for you. Then out came
+my poor young master,
+
+output:
+hind  Ind hot eng tauld tet e ta tnderetr. Soames,wa t tor tou  The etft tame wa tror hou   tas  r  
+
+
+###################################
+
+##################################
+
+epoch 99
+
+sampled text
+----------------------------
+Somwe thlheskia˝'llo "Pipi--,byer,
+Sa
+m-int, stbele,."C'iN :;Klormuvan tis“spvad. As;!"
+ tarxavl
+ibc
+
+
+tested text
+-----------------------------
+input:
+ve escaped that way."
+  Holmes shook his head impatiently.
+  "Let us be practical," said he. "I unde
+
+output:
+ertxterer thet ths "
+  "olmes weaur has ta r hn enion  y    "Tet In aeetaoci nell  said He  IO wnd r
+
+
+###################################
+
+
+
+sampling with seed_ix: 115
+----
+ Ωy isquecMrve, I spalirite-qailm lvisz ft af?.
+F,"Mr,, and wost---
+il ay.
+LTEknty'lleky bsaici?ur in 
+----
+
+sampling with seed_ix: 114
+----
+ e patpol.
+Pr liok? SM´RytingrI wourGyofsarse,
+bacy, lWesle te a dtond3psed.lKe renice, leas bath itc 
+----
+
+sampling with seed_ix: 100
+----
+ 
+thToabarFok viodht exacawavs cenansonusiw,Flthitz o9gtat
+n Rputhivpl. I mas t rasund oute thin?y
+ub 
+----
+
+sampling with seed_ix: 78
+----
+ oa I'hr!"
+f."Nn gey behes'nd
+roap ca
+telwioht
+nagyon!
+Lhlp;mal jit?."U daked glizeq.", t'k orac ke,  
+----
+
+sampling with seed_ix: 32
+----
+ yGI. NmenNbristo oc peattas., y "Yot," TlThe. Gidonrter It" e llakgnl cha ksvho.
+; yEurd,ursexpre
+cs 
+----
